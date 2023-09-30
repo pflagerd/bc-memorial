@@ -26,7 +26,7 @@
      showgrid="false"
      inkscape:zoom="1.1474186"
      inkscape:cx="335.53578"
-     inkscape:cy="630.54582"
+     inkscape:cy="560.8241"
      inkscape:window-width="2710"
      inkscape:window-height="1666"
      inkscape:window-x="756"
@@ -56,7 +56,7 @@
     <path
        d="m 184.3895,45.352341 c -4.22256,-7.03761 -11.26017,-11.963939 -19.7053,-11.963939 -11.96394,0 -21.11283,9.148896 -21.11283,21.112833 0,23.224118 12.6677,26.742924 40.81813,53.485845 28.15047,-26.742921 40.81818,-30.261727 40.81818,-53.485845 0,-11.963937 -9.14892,-21.112833 -21.11285,-21.112833 -8.44513,0 -15.48276,4.926329 -19.70533,11.963939 z"
        id="path4"
-       style="fill:#ffffff;stroke-width:0.2;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#fdfcfd;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1099"
@@ -83,5 +83,27 @@
        y="-61.338898"
        transform="rotate(55.035367)"
        clip-path="url(#clipPath1931)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.7609px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.573371"
+       x="173.25085"
+       y="136.82391"
+       id="text14862"><tspan
+         sodipodi:role="line"
+         id="tspan14860"
+         style="stroke-width:0.573371"
+         x="173.25085"
+         y="136.82391">B.C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="167.21199"
+       y="147.1226"
+       id="text23130"><tspan
+         sodipodi:role="line"
+         id="tspan23128"
+         style="stroke-width:0.264583"
+         x="167.21199"
+         y="147.1226">2007 - 2023</tspan></text>
   </g>
 </svg>
