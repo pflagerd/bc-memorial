@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="250mm"
-   height="186mm"
-   viewBox="0 0 250 186"
+   width="255mm"
+   height="190mm"
+   viewBox="0 0 255 190"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -25,14 +25,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1474186"
-     inkscape:cx="335.53578"
-     inkscape:cy="560.8241"
-     inkscape:window-width="2710"
-     inkscape:window-height="1666"
-     inkscape:window-x="756"
-     inkscape:window-y="893"
+     inkscape:cx="322.89872"
+     inkscape:cy="560.38834"
+     inkscape:window-width="3013"
+     inkscape:window-height="1905"
+     inkscape:window-x="345"
+     inkscape:window-y="852"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     scale-x="1"
+     showguides="false" />
   <defs
      id="defs2">
     <clipPath
@@ -54,23 +56,23 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       d="m 184.3895,45.352341 c -4.22256,-7.03761 -11.26017,-11.963939 -19.7053,-11.963939 -11.96394,0 -21.11283,9.148896 -21.11283,21.112833 0,23.224118 12.6677,26.742924 40.81813,53.485845 28.15047,-26.742921 40.81818,-30.261727 40.81818,-53.485845 0,-11.963937 -9.14892,-21.112833 -21.11285,-21.112833 -8.44513,0 -15.48276,4.926329 -19.70533,11.963939 z"
+       d="m 192.03116,30.683757 c -4.80289,-8.429568 -12.80772,-14.330267 -22.4135,-14.330267 -13.60821,0 -24.01448,10.95844 -24.01448,25.288705 0,27.817578 14.40869,32.032364 46.42798,64.064715 32.01932,-32.032351 46.42802,-36.247137 46.42802,-64.064715 0,-14.330265 -10.4063,-25.288705 -24.01449,-25.288705 -9.60579,0 -17.61063,5.900699 -22.41353,14.330267 z"
        id="path4"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.233445;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#fdfcfd;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1099"
        width="84.243973"
        height="31.587055"
-       x="142.26753"
-       y="120.96453" />
+       x="148.0323"
+       y="128.57401" />
     <ellipse
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.280333"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.326009"
        id="path915-3"
-       cx="71.783974"
-       cy="92.842598"
-       rx="49.143066"
-       ry="73.464661"
+       cx="71.53904"
+       cy="94.124962"
+       rx="58.792255"
+       ry="83.048546"
        inkscape:label="path915" />
     <image
        width="180.8033"
@@ -81,29 +83,29 @@
        id="image1836"
        x="48.162308"
        y="-61.338898"
-       transform="rotate(55.035367)"
+       transform="matrix(0.68559251,0.92641516,-0.98041506,0.64783103,-14.339654,-10.829484)"
        clip-path="url(#clipPath1931)" />
     <text
        xml:space="preserve"
        style="font-size:13.7609px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.573371"
-       x="173.25085"
-       y="136.82391"
+       x="179.01562"
+       y="142.81927"
        id="text14862"><tspan
          sodipodi:role="line"
          id="tspan14860"
          style="stroke-width:0.573371"
-         x="173.25085"
-         y="136.82391">B.C.</tspan></text>
+         x="179.01562"
+         y="142.81927">B.C.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="167.21199"
-       y="147.1226"
+       x="172.97676"
+       y="153.11797"
        id="text23130"><tspan
          sodipodi:role="line"
          id="tspan23128"
          style="stroke-width:0.264583"
-         x="167.21199"
-         y="147.1226">2007 - 2023</tspan></text>
+         x="172.97676"
+         y="153.11797">2007 - 2023</tspan></text>
   </g>
 </svg>
